@@ -1,0 +1,12 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Tutorials followed of javabrains youtube channel namely Typescript basics.",
+  "main": "js/index.js",
+  "scripts": {
+    "start": "tsc && node js/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chandrakant",
+  "license": "ISC"
+}
