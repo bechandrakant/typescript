@@ -17,6 +17,7 @@ use flag -g for global installation.
 ```bash
 tsc <file-name>.ts
 ```
+Output file shall be generated only if there is no compilation errors.
 
 ## run
 
